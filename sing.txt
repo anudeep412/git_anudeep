@@ -1,2 +1,4 @@
 anudeep uses git 
 gitbash is been used
+line 1
+line 2
